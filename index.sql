@@ -56,7 +56,7 @@ INSERT INTO students(student_id, student_name) VALUES
 
 
 
-INSERT INTO enrollments(student_id, course_id) VALUES
+INSERT INTO enrollments(enrollment_id, student_id, course_id) VALUES
 (1, 1, 1),
 (2, 1, 2),
 (3, 2, 1),
